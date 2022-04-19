@@ -1,3 +1,4 @@
+Hello😁,I'm SungKyun Koo. I am studying to become a front-end developer. To become a back-end developer in the future
 
 
 ## 💻STACK
