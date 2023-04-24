@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&textI'm%20SungKyun%20Ku&fontSize=70)
- I am studying to become a front-end developer. To become a back-end developer in the future
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&text=I'm%20SungKyun%20Ku&fontSize=70)
 
 ## 💻STACK
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
