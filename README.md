@@ -2,7 +2,7 @@
 
 ## 📕about me📘
 - ❤ I love writing Java/Type Script.
-- 💻 I often share my thoughts and learnings on my blog.
+- 💻 I often share my thoughts and learnings on my <a href="https://ksk-yun.tistory.com/">blog</a>.
 - 💪 I do weight training in my free time
 
 ![SSKyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSKyun&show_icons=true&theme=tokyonight)
