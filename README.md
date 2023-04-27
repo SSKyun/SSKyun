@@ -6,4 +6,4 @@
 - 💪 I do weight training in my free time
 
 ![SSKyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSKyun&show_icons=true&theme=tokyonight&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKyun&layout=compact&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKyun&layout=compact&theme=tokyonight)
