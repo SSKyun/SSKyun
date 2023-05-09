@@ -8,7 +8,4 @@
 ![SSKyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSKyun&show_icons=true&theme=tokyonight&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKyun&layout=compact&theme=tokyonight)
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=🦍+Hi,+There🐳&font=Redressed&size=40)](https://git.io/typing-svg)
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=🦍+Hi,+There🐳&font=Redressed&size=40)](https://git.io/typing-svg)
