@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,I'm%20SungKyun%20Ku&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🌙Hello,I'm%20SungKyun⭐%20Ku&fontSize=45)
 
 ## 📕about me📘
 - ❤ I love writing Java/Type Script.
