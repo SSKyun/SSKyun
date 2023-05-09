@@ -17,8 +17,8 @@ jobs:
           USERNAME: SSKyun
       - name: Commit & Push
         run: |
-          git config SSKyun github-actions
-          git config tbvjzoshszld@gmail.com
+          git config user.name SSKyun
+          git config user.email tbvjzoshszld@gmail.com
           git add -A .
           git commit -m "generated"
           git push
