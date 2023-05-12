@@ -4,7 +4,6 @@
 - ❤ I love writing Java/Type Script. 
 - 💻 I often share my thoughts and learnings on my <a href="https://ksk-yun.tistory.com/">blog</a>.
 - 💪 I do weight training in my free time.
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)               
 
 ![SSKyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSKyun&show_icons=true&theme=tokyonight&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKyun&layout=compact&theme=tokyonight)
